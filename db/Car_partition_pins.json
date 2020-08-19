@@ -1,0 +1,141 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sonar_trig",
+					"strict" : false
+				},
+				{
+					"name" : "e1",
+					"strict" : false
+				},
+				{
+					"name" : "e2",
+					"strict" : false
+				},
+				{
+					"name" : "m11",
+					"strict" : false
+				},
+				{
+					"name" : "m12",
+					"strict" : false
+				},
+				{
+					"name" : "m21",
+					"strict" : false
+				},
+				{
+					"name" : "m22",
+					"strict" : false
+				},
+				{
+					"name" : "buzzer",
+					"strict" : false
+				},
+				{
+					"name" : "segment1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "segment1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segment1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "segment1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "segment1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segment1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segment1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "segment10[0]",
+					"strict" : false
+				},
+				{
+					"name" : "segment10[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segment10[2]",
+					"strict" : false
+				},
+				{
+					"name" : "segment10[3]",
+					"strict" : false
+				},
+				{
+					"name" : "segment10[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segment10[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segment10[6]",
+					"strict" : false
+				},
+				{
+					"name" : "segment100[0]",
+					"strict" : false
+				},
+				{
+					"name" : "segment100[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segment100[2]",
+					"strict" : false
+				},
+				{
+					"name" : "segment100[3]",
+					"strict" : false
+				},
+				{
+					"name" : "segment100[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segment100[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segment100[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_in",
+					"strict" : false
+				},
+				{
+					"name" : "line1",
+					"strict" : false
+				},
+				{
+					"name" : "line2",
+					"strict" : false
+				},
+				{
+					"name" : "sonar_echo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
